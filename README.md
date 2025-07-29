@@ -13,7 +13,7 @@ This is **Charles' personal setup script** for provisioning his `Death Star` Lin
 ## 🧪 Usage
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/yourusername/bootstrap-install/main/the_gibson_config.sh)
+bash <(curl -s https://raw.githubusercontent.com/pianomanx/main/the_gibson_config.sh)
 ```
 
 > ⚠️ Built for Debian/Ubuntu-based distros.
