@@ -1,0 +1,9 @@
+PuTTY-User-Key-File-2: ssh-ed25519
+Encryption: aes256-cbc
+Comment: rama
+Public-Lines: 2
+AAAAC3NzaC1lZDI1NTE5AAAAIGd1WyE9zucxXTgJNO2ic0L76i1Ahh4YxV/ibEcQ
+cQm0
+Private-Lines: 1
+cG3/1tq9ZtA44zye4nT+c8qStz0t4qrrpwOhEiViFDFvUXEB11we7r8TpCgLGd0o
+Private-MAC: edbed94246bc6768f1412bcb69a918bb215d2400
