@@ -12,8 +12,8 @@ NC="\033[0m" # No Color
 
 function print_header() {
   echo -e "${CYAN}======================================"
-  echo -e " The Death Star Script Starting.... 
-  echo -e "     Hold on to your butts!
+  echo -e " The Death Star Script Starting...." 
+  echo -e "     Hold on to your butts!:
   echo -e "======================================${NC}"
 }
 
@@ -22,9 +22,9 @@ function detect_os() {
   if [ -f /etc/os-release ]; then
     . /etc/os-release
     OS=$ID
-    echo -e "${GREEN}Detected OS: $OS${NC}"
+    echo -e "${GREEN}Detecting your OS: $OS${NC}"
   else
-    echo -e "${RED}Unable to detect OS. Exiting.${NC}"
+    echo -e "${RED}Unable to detect OS. Dumbass...wasting my time.${NC}"
     exit 1
   fi
 }
